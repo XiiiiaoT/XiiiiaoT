@@ -9,7 +9,7 @@
 
 ### AI Engineering · Computer Vision · LLM & Agents
 
-**M.S. Student in Computer Science**
+**Master's Student | Computer Vision & AI Engineering**
 
 Building practical AI systems through algorithm research, engineering, and open-source collaboration.
 
